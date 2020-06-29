@@ -1,0 +1,695 @@
+CRITICAL - 2020-06-25 00:07:57 --> Undefined variable: data
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 2, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(20): view('/posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 00:08:24 --> Undefined variable: data
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 2, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(20): view('/posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 00:09:08 --> Undefined variable: data
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 2, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(19): view('/posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 00:09:56 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 2, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(19): view('/posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 00:10:01 --> Undefined variable: post
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 2, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(19): view('/posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 00:10:15 --> Trying to get property 'title' of non-object
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(2): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Users\\Jajang...', 2, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(19): view('/posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 00:12:01 --> Trying to get property 'title' of non-object
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Users\\Jajang...', 3, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(19): view('/posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 00:12:20 --> Trying to get property 'title' of non-object
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Users\\Jajang...', 3, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(19): view('/posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 00:17:53 --> Undefined variable: no
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 23, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(19): view('/posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 00:26:11 --> Undefined variable: headerTitle
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 4, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('/posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(19): view('/posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 00:27:01 --> Undefined variable: headerTitle
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 4, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(19): view('posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 00:39:40 --> Undefined variable: album
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 26, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(20): view('posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 00:39:57 --> Trying to get property 'id' of non-object
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Users\\Jajang...', 26, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(20): view('posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 00:46:21 --> Undefined index: idx
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\index.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\Users\\Jajang...', 26, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/index', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(20): view('posts/index', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->index()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 01:01:38 --> Undefined variable: headerTitle
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\add.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 3, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/add', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(42): view('posts/add', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 01:03:14 --> Undefined variable: headerTitle
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\add.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 3, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/add', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(44): view('posts/add', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 01:03:18 --> Undefined variable: headerTitle
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\add.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 3, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/add', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(44): view('posts/add', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 01:04:22 --> Undefined variable: title
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\add.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 11, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/add', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(44): view('posts/add', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 01:05:12 --> Undefined property: App\Controllers\PostsController::$model
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Users\\Jajang...', 34, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 01:06:53 --> Undefined property: App\Controllers\PostsController::$model
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Users\\Jajang...', 34, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 01:06:57 --> Undefined property: App\Controllers\PostsController::$model
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Users\\Jajang...', 34, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 01:07:13 --> Undefined property: App\Controllers\PostsController::$model
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Users\\Jajang...', 34, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 01:08:02 --> Undefined property: App\Controllers\PostsController::$model
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Users\\Jajang...', 34, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 01:09:16 --> Call to undefined method App\Models\PostsModel::returnType
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(34): CodeIgniter\Model->__call('returnType', Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 01:12:51 --> Undefined variable: headerTitle
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\add.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 3, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/add', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(44): view('posts/add', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 01:13:03 --> Undefined variable: headerTitle
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\add.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 3, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/add', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(44): view('posts/add', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 01:15:29 --> Undefined variable: headerTitle
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\add.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 3, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/add', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(44): view('posts/add', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 01:15:35 --> Undefined variable: headerTitle
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\add.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 3, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/add', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(44): view('posts/add', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 01:15:40 --> Undefined variable: headerTitle
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\add.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 3, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/add', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\PostsController.php(44): view('posts/add', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\PostsController->add()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PostsController))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 01:32:51 --> Undefined variable: data
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 44, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->add()
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 01:34:05 --> Trying to get property 'connID' of non-object
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Users\\Jajang...', 54, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->delete('11')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 01:34:16 --> Trying to get property 'connID' of non-object
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Users\\Jajang...', 54, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->delete('10')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 01:40:10 --> Trying to get property 'affected_rows' of non-object
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Users\\Jajang...', 54, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->delete('8')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 01:43:18 --> Call to a member function real_escape_string() on bool
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Database\BaseConnection.php(1342): CodeIgniter\Database\MySQLi\Connection->_escapeString('2020-06-25 01:4...')
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Database\BaseConnection.php(1311): CodeIgniter\Database\BaseConnection->escapeString('2020-06-25 01:4...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Database\Query.php(430): CodeIgniter\Database\BaseConnection->escape('2020-06-25 01:4...')
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Database\Query.php(404): CodeIgniter\Database\Query->matchNamedBinds('UPDATE `posts` ...', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Database\Query.php(197): CodeIgniter\Database\Query->compileBinds()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Database\BaseConnection.php(652): CodeIgniter\Database\Query->getQuery()
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2441): CodeIgniter\Database\BaseConnection->query('UPDATE `posts` ...', Array, false)
+#7 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Model.php(948): CodeIgniter\Database\BaseBuilder->update(Array)
+#8 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(53): CodeIgniter\Model->delete(Array)
+#9 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->delete('8')
+#10 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#11 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#13 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#14 {main}
+CRITICAL - 2020-06-25 01:43:21 --> Call to a member function more_results() on bool
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Database\BaseConnection.php(716): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(20): CodeIgniter\Model->findAll()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->index()
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#7 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#10 {main}
+CRITICAL - 2020-06-25 01:43:24 --> Call to a member function more_results() on bool
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Database\BaseConnection.php(716): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(20): CodeIgniter\Model->findAll()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->index()
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#7 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#10 {main}
+CRITICAL - 2020-06-25 01:46:07 --> Trying to get property 'connID' of non-object
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(55): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Users\\Jajang...', 55, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->delete('9')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 01:51:38 --> Trying to get property 'connID' of non-object
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Users\\Jajang...', 54, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->delete('13')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 01:52:36 --> Trying to get property 'connID' of non-object
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Users\\Jajang...', 56, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->delete('13')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 04:20:51 --> Undefined variable: headerTitle
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\add.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 3, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/add', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(46): view('posts/add', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->add()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 04:22:42 --> Undefined variable: headerTitle
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\add.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Users\\Jajang...', 3, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/add', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(47): view('posts/add', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->add()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 04:31:58 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\edit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 11, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 04:32:02 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\edit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 11, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 04:32:33 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\edit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 11, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 04:32:34 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\edit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 11, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 04:33:32 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\edit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 11, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 04:33:34 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\edit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 11, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 04:33:34 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\edit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 11, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 04:33:35 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\edit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 11, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 04:33:35 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\posts\edit.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 11, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#9 {main}
+CRITICAL - 2020-06-25 04:33:49 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\layout.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 7, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(257): CodeIgniter\View\View->render('Views\\layout', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#4 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#7 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#10 {main}
+CRITICAL - 2020-06-25 04:33:50 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\layout.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 7, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(257): CodeIgniter\View\View->render('Views\\layout', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#4 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#7 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#10 {main}
+CRITICAL - 2020-06-25 04:33:51 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\layout.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 7, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(257): CodeIgniter\View\View->render('Views\\layout', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#4 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#7 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#10 {main}
+CRITICAL - 2020-06-25 04:33:51 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\layout.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 7, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(257): CodeIgniter\View\View->render('Views\\layout', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#4 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#7 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#10 {main}
+CRITICAL - 2020-06-25 04:33:51 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\layout.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 7, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(257): CodeIgniter\View\View->render('Views\\layout', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#4 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#7 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#10 {main}
+CRITICAL - 2020-06-25 04:33:51 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\layout.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 7, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(257): CodeIgniter\View\View->render('Views\\layout', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#4 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#7 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#10 {main}
+CRITICAL - 2020-06-25 04:35:05 --> Array to string conversion
+#0 C:\Users\Jajang Nurjaman\blog\app\Views\layout.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\Users\\Jajang...', 7, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Jajang...')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\View\View.php(257): CodeIgniter\View\View->render('Views\\layout', Array, true)
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('posts/edit', Array, true)
+#4 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(79): view('posts/edit', Array)
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#6 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#7 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#10 {main}
+CRITICAL - 2020-06-25 04:37:30 --> Trying to get property 'connID' of non-object
+#0 C:\Users\Jajang Nurjaman\blog\app\Controllers\Posts.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\Users\\Jajang...', 83, Array)
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->delete('17')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 04:41:43 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('posts')
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('posts')
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#6 {main}
+CRITICAL - 2020-06-25 04:45:06 --> Too few arguments to function App\Controllers\Posts::edit(), 0 passed in C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit()
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#5 {main}
+CRITICAL - 2020-06-25 04:45:18 --> Too few arguments to function App\Controllers\Posts::edit(), 0 passed in C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit()
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#5 {main}
+CRITICAL - 2020-06-25 04:45:30 --> Too few arguments to function App\Controllers\Posts::edit(), 0 passed in C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit()
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#5 {main}
+CRITICAL - 2020-06-25 04:45:34 --> Too few arguments to function App\Controllers\Posts::edit(), 0 passed in C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit()
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#5 {main}
+CRITICAL - 2020-06-25 04:45:47 --> Too few arguments to function App\Controllers\Posts::edit(), 0 passed in C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit()
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#5 {main}
+CRITICAL - 2020-06-25 04:46:13 --> Too few arguments to function App\Controllers\Posts::edit(), 0 passed in C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit()
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#5 {main}
+CRITICAL - 2020-06-25 04:46:48 --> Too few arguments to function App\Controllers\Posts::edit(), 0 passed in C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit()
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#5 {main}
+CRITICAL - 2020-06-25 04:47:46 --> Too few arguments to function App\Controllers\Posts::edit(), 0 passed in C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit()
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#5 {main}
+CRITICAL - 2020-06-25 04:47:50 --> Call to a member function save() on array
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('20')
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#5 {main}
+CRITICAL - 2020-06-25 04:49:12 --> Call to a member function save() on array
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('20')
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#5 {main}
+CRITICAL - 2020-06-25 04:49:39 --> Call to a member function save() on array
+#0 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Posts->edit('14')
+#1 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Posts))
+#2 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Jajang Nurjaman\blog\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Jajang Nurjaman\blog\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Jajang...')
+#5 {main}
